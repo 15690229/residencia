@@ -1,0 +1,134 @@
+.size {
+    font-size: 125%;
+}
+
+.ma-auto {
+    margin-left: 650px !important;
+}
+
+a.font {
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+body {
+    min-height: 200vh;
+}
+
+.navbar-default {
+    transition: 500ms ease;
+    background: transparent;
+}
+
+.navbar-default.scrolled {
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.main-container {
+    margin-top: 0px;
+}
+
+.second-container {
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.about-section {
+    background-color: #DCDCDC;
+}
+
+.ad-section {
+    background: rgba(0, 0, 0);
+}
+
+.services-section {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.title {
+    color: #000;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    letter-spacing: 0.5px;
+}
+
+.title-ad {
+    color: #fff;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    letter-spacing: 0.5px;
+}
+
+.title-services {
+    color: white;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 35px;
+    letter-spacing: 0.5px;
+    font-weight: bolder;
+}
+
+.title-unidades {
+    color: black;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 35px;
+    letter-spacing: 0.5px;
+    font-weight: bolder;
+}
+
+.subtitle-unidades {
+    color: #1B7ACA;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    letter-spacing: 0.5px;
+}
+
+.contact-section {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.subtitle {
+    color: #1B7ACA;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+    letter-spacing: 0.5px;
+}
+
+.subtitle-services {
+    color: #1B7ACA;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    letter-spacing: 0.5px;
+}
+
+.letter {
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.letter-services {
+    font-family: 'Helvetica Neue', sans-serif;
+    color: white;
+}
+
+.material-icons {
+    font-size: 30px;
+}
+
+.contact-text {
+    color: #fff;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    letter-spacing: 0.5px;
+}
+
+.fa-map-marker-alt {
+    color: white;
+}
+
+.text-contact {
+    text-align: justify;
+}
